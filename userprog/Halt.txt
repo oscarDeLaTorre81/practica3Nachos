@@ -1,0 +1,265 @@
+Nombre Archivo: ../test/halt .
+Archivo: ../test/halt.swp . 1344,tamaño ant mult 
+Archivo creado
+Archivos abiertos con exito
+Archivo X:360, Archivo SWP:320
+La cantidad de marcos que requiere el proceso para ejecutarse son: 11 
+ Tamaño del proceso 1408 bytes
+
+Tabla de Pagínas
+
+Indice	 No. Marco	 Bit Validez
+ 0	 0		 0
+1	 1		 0
+2	 2		 0
+3	 3		 0
+4	 4		 0
+5	 5		 0
+6	 6		 0
+7	 7		 0
+8	 8		 0
+9	 9		 0
+10	 10		 0
+
+Mapeo de Direcciones Logicas a Fisicas
+
+Dir. Lógica	 No. de Página(p)	 Desplazamiento(d)	 Dir. Fisica=Formula
+ Fallo de Pag. 1, Dir. Log.: 0, Num.Pag.: 0,Desp: 0, Dir. Fis.: 0
+0		 0			 0			 0=(0*128)+0		 
+4		 0			 4			 4=(0*128)+4		 
+Fallo de Pag. 2, Dir. Log.: 208, Num.Pag.: 1,Desp: 80, Dir. Fis.: 208
+208		 1			 80			 208=(1*128)+80		 
+212		 1			 84			 212=(1*128)+84		 
+Fallo de Pag. 3, Dir. Log.: 1384, Num.Pag.: 10,Desp: 104, Dir. Fis.: 360
+212		 1			 84			 212=(1*128)+84		 
+1384		 2			 104			 360=(2*128)+104		 
+216		 1			 88			 216=(1*128)+88		 
+1380		 2			 100			 356=(2*128)+100		 
+220		 1			 92			 220=(1*128)+92		 
+1376		 2			 96			 352=(2*128)+96		 
+224		 1			 96			 224=(1*128)+96		 
+228		 1			 100			 228=(1*128)+100		 
+232		 1			 104			 232=(1*128)+104		 
+16		 0			 16			 16=(0*128)+16		 
+20		 0			 20			 20=(0*128)+20		 
+Machine halting!
+
+Ticks: total 20, idle 0, system 10, user 10
+Disk I/O: reads 0, writes 0
+Console I/O: reads 0, writes 0
+Paging: faults 3
+Network I/O: packets received 0, sent 0
+
+Cleaning up...
+Nombre Archivo: ../test/halt .
+Archivo: ../test/halt.swp . 1344,tamaño ant mult 
+Archivo creado
+Archivos abiertos con exito
+Archivo X:360, Archivo SWP:320
+La cantidad de marcos que requiere el proceso para ejecutarse son: 11 
+ Tamaño del proceso 1408 bytes
+
+Tabla de Pagínas
+
+Indice	 No. Marco	 Bit Validez
+ 0	 0		 0
+1	 1		 0
+2	 2		 0
+3	 3		 0
+4	 4		 0
+5	 5		 0
+6	 6		 0
+7	 7		 0
+8	 8		 0
+9	 9		 0
+10	 10		 0
+
+Mapeo de Direcciones Logicas a Fisicas
+
+Dir. Lógica	 No. de Página(p)	 Desplazamiento(d)	 Dir. Fisica=Formula
+ Fallo de Pag. 1, Dir. Log.: 0, Num.Pag.: 0,Desp: 0, Dir. Fis.: 0
+0		 0			 0			 0=(0*128)+0		 
+4		 0			 4			 4=(0*128)+4		 
+Fallo de Pag. 2, Dir. Log.: 208, Num.Pag.: 1,Desp: 80, Dir. Fis.: 208
+208		 1			 80			 208=(1*128)+80		 
+212		 1			 84			 212=(1*128)+84		 
+Fallo de Pag. 3, Dir. Log.: 1384, Num.Pag.: 10,Desp: 104, Dir. Fis.: 360
+212		 1			 84			 212=(1*128)+84		 
+1384		 2			 104			 360=(2*128)+104		 
+216		 1			 88			 216=(1*128)+88		 
+1380		 2			 100			 356=(2*128)+100		 
+220		 1			 92			 220=(1*128)+92		 
+1376		 2			 96			 352=(2*128)+96		 
+224		 1			 96			 224=(1*128)+96		 
+228		 1			 100			 228=(1*128)+100		 
+232		 1			 104			 232=(1*128)+104		 
+16		 0			 16			 16=(0*128)+16		 
+20		 0			 20			 20=(0*128)+20		 
+Machine halting!
+
+Ticks: total 20, idle 0, system 10, user 10
+Disk I/O: reads 0, writes 0
+Console I/O: reads 0, writes 0
+Paging: faults 3
+Network I/O: packets received 0, sent 0
+
+Cleaning up...
+Nombre Archivo: ../test/halt .
+Archivo: ../test/halt.swp . 1344,tamaño ant mult 
+Archivo creado
+Archivos abiertos con exito
+Archivo X:360, Archivo SWP:320
+La cantidad de marcos que requiere el proceso para ejecutarse son: 11 
+ Tamaño del proceso 1408 bytes
+
+Tabla de Pagínas
+
+Indice	 No. Marco	 Bit Validez
+ 0	 0		 0
+1	 1		 0
+2	 2		 0
+3	 3		 0
+4	 4		 0
+5	 5		 0
+6	 6		 0
+7	 7		 0
+8	 8		 0
+9	 9		 0
+10	 10		 0
+
+Mapeo de Direcciones Logicas a Fisicas
+
+Dir. Lógica	 No. de Página(p)	 Desplazamiento(d)	 Dir. Fisica=Formula
+ Fallo de Pag. 1, Dir. Log.: 0, Num.Pag.: 0,Desp: 0, Dir. Fis.: 0
+0		 0			 0			 0=(0*128)+0		 
+4		 0			 4			 4=(0*128)+4		 
+Fallo de Pag. 2, Dir. Log.: 208, Num.Pag.: 1,Desp: 80, Dir. Fis.: 208
+208		 1			 80			 208=(1*128)+80		 
+212		 1			 84			 212=(1*128)+84		 
+Fallo de Pag. 3, Dir. Log.: 1384, Num.Pag.: 10,Desp: 104, Dir. Fis.: 360
+212		 1			 84			 212=(1*128)+84		 
+1384		 2			 104			 360=(2*128)+104		 
+216		 1			 88			 216=(1*128)+88		 
+1380		 2			 100			 356=(2*128)+100		 
+220		 1			 92			 220=(1*128)+92		 
+1376		 2			 96			 352=(2*128)+96		 
+224		 1			 96			 224=(1*128)+96		 
+228		 1			 100			 228=(1*128)+100		 
+232		 1			 104			 232=(1*128)+104		 
+16		 0			 16			 16=(0*128)+16		 
+20		 0			 20			 20=(0*128)+20		 
+Machine halting!
+
+Ticks: total 20, idle 0, system 10, user 10
+Disk I/O: reads 0, writes 0
+Console I/O: reads 0, writes 0
+Paging: faults 3
+Network I/O: packets received 0, sent 0
+
+Cleaning up...
+Nombre Archivo: ../test/halt .
+Archivo: ../test/halt.swp . 1344,tamaño ant mult 
+Archivo creado
+Archivos abiertos con exito
+Archivo X:360, Archivo SWP:320
+La cantidad de marcos que requiere el proceso para ejecutarse son: 11 
+ Tamaño del proceso 1408 bytes
+
+Tabla de Pagínas
+
+Indice	 No. Marco	 Bit Validez
+ 0	 0		 0
+1	 1		 0
+2	 2		 0
+3	 3		 0
+4	 4		 0
+5	 5		 0
+6	 6		 0
+7	 7		 0
+8	 8		 0
+9	 9		 0
+10	 10		 0
+
+Mapeo de Direcciones Logicas a Fisicas
+
+Dir. Lógica	 No. de Página(p)	 Desplazamiento(d)	 Dir. Fisica=Formula
+ Fallo de Pag. 1, Dir. Log.: 0, Num.Pag.: 0,Desp: 0, Dir. Fis.: 0
+0		 0			 0			 0=(0*128)+0		 
+4		 0			 4			 4=(0*128)+4		 
+Fallo de Pag. 2, Dir. Log.: 208, Num.Pag.: 1,Desp: 80, Dir. Fis.: 208
+208		 1			 80			 208=(1*128)+80		 
+212		 1			 84			 212=(1*128)+84		 
+Fallo de Pag. 3, Dir. Log.: 1384, Num.Pag.: 10,Desp: 104, Dir. Fis.: 360
+212		 1			 84			 212=(1*128)+84		 
+1384		 2			 104			 360=(2*128)+104		 
+216		 1			 88			 216=(1*128)+88		 
+1380		 2			 100			 356=(2*128)+100		 
+220		 1			 92			 220=(1*128)+92		 
+1376		 2			 96			 352=(2*128)+96		 
+224		 1			 96			 224=(1*128)+96		 
+228		 1			 100			 228=(1*128)+100		 
+232		 1			 104			 232=(1*128)+104		 
+16		 0			 16			 16=(0*128)+16		 
+20		 0			 20			 20=(0*128)+20		 
+Machine halting!
+
+Ticks: total 20, idle 0, system 10, user 10
+Disk I/O: reads 0, writes 0
+Console I/O: reads 0, writes 0
+Paging: faults 3
+Network I/O: packets received 0, sent 0
+
+Cleaning up...
+Nombre Archivo: ../test/halt .
+Archivo: ../test/halt.swp . 1344,tamaño ant mult 
+Archivo creado
+Archivos abiertos con exito
+Archivo X:360, Archivo SWP:320
+La cantidad de marcos que requiere el proceso para ejecutarse son: 11 
+ Tamaño del proceso 1408 bytes
+
+Tabla de Pagínas
+
+Indice	 No. Marco	 Bit Validez
+ 0	 0		 0
+1	 1		 0
+2	 2		 0
+3	 3		 0
+4	 4		 0
+5	 5		 0
+6	 6		 0
+7	 7		 0
+8	 8		 0
+9	 9		 0
+10	 10		 0
+
+Mapeo de Direcciones Logicas a Fisicas
+
+Dir. Lógica	 No. de Página(p)	 Desplazamiento(d)	 Dir. Fisica=Formula
+ Fallo de Pag. 1, Dir. Log.: 0, Num.Pag.: 0,Desp: 0, Dir. Fis.: 0
+0		 0			 0			 0=(0*128)+0		 
+4		 0			 4			 4=(0*128)+4		 
+Fallo de Pag. 2, Dir. Log.: 208, Num.Pag.: 1,Desp: 80, Dir. Fis.: 208
+208		 1			 80			 208=(1*128)+80		 
+212		 1			 84			 212=(1*128)+84		 
+Fallo de Pag. 3, Dir. Log.: 1384, Num.Pag.: 10,Desp: 104, Dir. Fis.: 360
+212		 1			 84			 212=(1*128)+84		 
+1384		 2			 104			 360=(2*128)+104		 
+216		 1			 88			 216=(1*128)+88		 
+1380		 2			 100			 356=(2*128)+100		 
+220		 1			 92			 220=(1*128)+92		 
+1376		 2			 96			 352=(2*128)+96		 
+224		 1			 96			 224=(1*128)+96		 
+228		 1			 100			 228=(1*128)+100		 
+232		 1			 104			 232=(1*128)+104		 
+16		 0			 16			 16=(0*128)+16		 
+20		 0			 20			 20=(0*128)+20		 
+Machine halting!
+
+Ticks: total 20, idle 0, system 10, user 10
+Disk I/O: reads 0, writes 0
+Console I/O: reads 0, writes 0
+Paging: faults 3
+Network I/O: packets received 0, sent 0
+
+Cleaning up...
